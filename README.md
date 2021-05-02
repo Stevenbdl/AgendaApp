@@ -1,4 +1,4 @@
-﻿#Agenda App
+﻿# Agenda App
 
 ![AgendaApp UI](./imagenes/AgendaAppUI.png)
 
@@ -7,7 +7,7 @@ crear, leer, actualizar y borrar contactos, es mi primer CRUD usando .NET con C#
 gestor de bases de datos.*
 
 
-##Pasos para ejecutarla
+## Pasos para ejecutarla
 
 1. Ejecuta las consultas e instrucciones que están en el archivo database.sql para crear la base de datos
    AGENDA y la tabla CONTACTOS.
