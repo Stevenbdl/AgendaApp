@@ -13,8 +13,14 @@ namespace AgendaApp
     {
         public static SqlConnection Conectar()
         {
-            string conString = "Server = DESKTOP-NB7JEUO\\STEVENBDL; " +
-                "Initial Catalog = AGENDA; USER ID = sa; Password = stevenbdl30";
+            /*Server = Nombre de tu instancia del servidor en SQL Server.
+             * Initial Catalog = Nombre de tu base de datos(Como asumo que le dejarás AGENDA le dejo el mismo nombre).
+             * USER ID = Tu usuario nombre de usuario creado para conectarte con la base de datos.
+             * Password = La contraseña asociada con ese nombre de usuario.
+            */
+            string conString = "Server = <nombre de tu instancia del servidor>; " +
+                "Initial Catalog = AGENDA; USER ID = <tu usuario>; Password = <tu contraseña>";
+
             /*Objeto SqlConnection, es el que se devuelve y se puede utilizar para cerrar la conexion
             fuera de la la funcion*/
             SqlConnection conexion = new SqlConnection(conString);
@@ -25,7 +31,7 @@ namespace AgendaApp
             }
             catch (Exception e)
             {
-                MessageBox.Show("Error al abrir la conexion a la base de datos");
+                MessageBox.Show("Error al abrir la conexion a la base de datos " + e.ToString());
             }
             return conexion;
         }

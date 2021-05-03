@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sbAAJXovHekiQvVvuZ1NsNIDT3HWXaoLVmpBb3MHmS4FocmxFyoDBKn4Oy+Z+pCQmJeB/bk53zOqPvEKwpZV1Q==",
+  "dgSpecHash": "UA0doi3aeca2AodDFYm+nd2Zp+6R5IWFKfP+jADPJ092r53SwR2kNEuzqPDKkAXKZlMG4QP+sM7mtUvkgjtHzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Steve\\OneDrive\\Escritorio\\Steven\\AgendaApp\\AgendaApp.csproj",
+  "projectFilePath": "C:\\Users\\Steve\\OneDrive\\Escritorio\\Steven\\AgendaApp\\AgendaApp\\AgendaApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Steve\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Steve\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

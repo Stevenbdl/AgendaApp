@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Steve\\OneDrive\\Escritorio\\Steven\\AgendaApp\\AgendaApp.csproj",
+      "projectUniqueName": "C:\\Users\\Steve\\OneDrive\\Escritorio\\Steven\\AgendaApp\\AgendaApp\\AgendaApp.csproj",
       "projectName": "AgendaApp",
-      "projectPath": "C:\\Users\\Steve\\OneDrive\\Escritorio\\Steven\\AgendaApp\\AgendaApp.csproj",
+      "projectPath": "C:\\Users\\Steve\\OneDrive\\Escritorio\\Steven\\AgendaApp\\AgendaApp\\AgendaApp.csproj",
       "packagesPath": "C:\\Users\\Steve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Steve\\OneDrive\\Escritorio\\Steven\\AgendaApp\\obj\\",
+      "outputPath": "C:\\Users\\Steve\\OneDrive\\Escritorio\\Steven\\AgendaApp\\AgendaApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Steve\\AppData\\Roaming\\NuGet\\NuGet.Config",
