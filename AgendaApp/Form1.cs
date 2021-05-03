@@ -25,7 +25,7 @@ namespace AgendaApp
         }
         public void ActualizarTabla()
         {
-            //Actualiza la tabla cuando se carga la interfaz y luego de insertar o borrar datos
+            //Actualiza la tabla cuando se carga la interfaz y luego de insertar, editar o borrar datos
             TablaContactos.DataSource = TablaDatos();
         }
         public DataTable TablaDatos()
